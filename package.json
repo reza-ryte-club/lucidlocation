@@ -1,12 +1,12 @@
 {
-  "name": "loki",
+  "name": "lucidlocation",
   "description": "Random location generator",
   "version": "0.0.1",
   "author": {
     "name": "M Rezaur Rahman",
     "url": "https://github.com/reza-ryte-club"
   },
-  "homepage": "https://github.com/reza-ryte-club/loki",
+  "homepage": "https://github.com/reza-ryte-club/lucidlocation",
   "contributors": [],
   "devDependencies": {},
   "dependencies": {},
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reza-ryte-club/loki"
+    "url": "https://github.com/reza-ryte-club/lucidlocation.git"
   },
   "bugs": {
     "url": "http://github.com/aws/aws-sdk-js/issues"

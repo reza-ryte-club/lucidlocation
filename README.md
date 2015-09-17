@@ -1,2 +1,2 @@
-# loki
+# lucidlocation
 Random location generator
